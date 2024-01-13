@@ -18,16 +18,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-me/</loc>
-		<lastmod>2024-01-13T11:41:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/picture.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/contact/</loc>
 		<lastmod>2024-01-13T11:42:06+00:00</lastmod>
 		<image:image>
@@ -39,6 +29,16 @@
 		<lastmod>2024-01-13T11:55:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about-me/</loc>
+		<lastmod>2024-01-13T12:18:51+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/picture.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>
