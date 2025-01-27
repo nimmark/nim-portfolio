@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-01-21T13:50:13+00:00</lastmod>
+		<lastmod>2025-01-27T12:48:37+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/about/</loc>
-		<lastmod>2025-01-21T13:48:55+00:00</lastmod>
+		<loc>/about-me/</loc>
+		<lastmod>2025-01-27T13:06:52+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
 		</image:image>
@@ -18,8 +18,15 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/about-me/</loc>
-		<lastmod>2025-01-21T13:49:25+00:00</lastmod>
+		<loc>/portfolio/</loc>
+		<lastmod>2025-01-27T13:10:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about/</loc>
+		<lastmod>2025-01-27T13:11:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
 		</image:image>
@@ -29,14 +36,7 @@
 	</url>
 	<url>
 		<loc>/contact/</loc>
-		<lastmod>2025-01-21T13:49:56+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/portfolio/</loc>
-		<lastmod>2025-01-21T13:50:32+00:00</lastmod>
+		<lastmod>2025-01-27T13:14:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/01/opengraph.webp</image:loc>
 		</image:image>
